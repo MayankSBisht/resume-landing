@@ -2,7 +2,7 @@
 
 A modern and responsive **Resume Builder Landing Page** built using **HTML, CSS, and JavaScript**. This project features a clean UI, semantic HTML structure, responsive layout, and attractive design inspired by modern SaaS websites.
 
-live Demo  https://mayankbisht1511-commits.github.io/resume-landing/
+live Demo  https://mayanksbisht.github.io/resume-landing/
 
 
 ## 🚀 Features
